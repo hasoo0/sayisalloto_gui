@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sayisalloto_gui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sayisalloto_gui_jar</output-path>
+    <root id="archive" name="sayisalloto_gui.jar">
+      <element id="module-output" name="sayisalloto_gui" />
+    </root>
+  </artifact>
+</component>
